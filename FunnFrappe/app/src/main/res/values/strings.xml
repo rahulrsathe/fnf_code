@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fun &amp; Frappe</string>
+
+    <string name="title_section1">Coffee</string>
+    <string name="title_section2">Pizza</string>
+    <string name="title_section3">Sweets</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
